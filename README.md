@@ -12,7 +12,7 @@ To run the web application, you need Python installed on your local machine. Fol
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/diemacedo12/housing-mlops-deployment.git
+   git clone https://github.com/<your username>/housing-mlops-deployment.git
    cd housing-mlops-deployment
 Install required libraries:
 

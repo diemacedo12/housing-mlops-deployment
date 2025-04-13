@@ -16,23 +16,13 @@ To run the web application, you need Python installed on your local machine. Fol
    git clone https://github.com/<your-username>/housing-mlops-deployment.git
    cd housing-mlops-deployment
 Install required libraries:
-bash
 
-Collapse
-
-Wrap
-
-Copy
 pip install gradio pandas scikit-learn joblib
+
 Run the application:
-bash
 
-Collapse
-
-Wrap
-
-Copy
 python app.py
+
 Access the web interface:
 After running app.py, a URL will be displayed (e.g., http://127.0.0.1:7860).
 Open this URL in your browser to use the prediction interface.
